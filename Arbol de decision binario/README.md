@@ -42,7 +42,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 1.  Asegúrate de tener el archivo del dataset `emails_dataset.csv` en la misma carpeta que el script de Python.
 2.  Ejecuta el script desde tu terminal:
     ```bash
-    python tu_script.py
+    ArbolBinario.py
     ```
 3.  ¡Listo\! El script imprimirá en la consola un resumen de los resultados y guardará todas las gráficas como archivos `.png` en la misma carpeta.
 
