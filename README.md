@@ -12,9 +12,9 @@ A continuación, una lista de los proyectos incluidos en este repositorio. Haz c
 
 | \# | Proyecto | Descripción Corta |
 |---|---|---|
-| 1 | **[Clasificador de Flores Iris](https://www.google.com/search?q=./Clasificador%2520IRIS/)** | Un clasificador simple que usa Regresión Lineal para diferenciar entre 3 tipos de flores del dataset Iris. Un buen ejercicio para entender las bases. |
-| 2 | **[Detector de SPAM con Regresión Logística](https://www.google.com/search?q=./Clasificador%2520SPAM%2520HAM/)** | Un modelo que clasifica correos como SPAM o HAM. Se analizan las características más importantes y se prueba la robustez del modelo. |
-| 3 | **[Clasificador de SPAM con Árboles de Decisión](https://www.google.com/search?q=./Arbol%2520de%2520decision%2520binario/)** | Un clasificador de SPAM/HAM que utiliza Árboles de Decisión para analizar y visualizar la estabilidad y rendimiento del modelo a través de múltiples iteraciones. |
+| 1 | **[Clasificador de Flores Iris](https://github.com/Juan-qwerty/Machine-Learning/tree/main/Clasificador%20IRIS/)** | Un clasificador simple que usa Regresión Lineal para diferenciar entre 3 tipos de flores del dataset Iris. Un buen ejercicio para entender las bases. |
+| 2 | **[Detector de SPAM con Regresión Logística](https://github.com/Juan-qwerty/Machine-Learning/tree/main/Clasificador%20SPAM%20HAM/)** | Un modelo que clasifica correos como SPAM o HAM. Se analizan las características más importantes y se prueba la robustez del modelo. |
+| 3 | **[Clasificador de SPAM con Árboles de Decisión](https://github.com/Juan-qwerty/Machine-Learning/tree/main/Arbol%20de%20decision%20binario/)** | Un clasificador de SPAM/HAM que utiliza Árboles de Decisión para analizar y visualizar la estabilidad y rendimiento del modelo a través de múltiples iteraciones. |
 
 -----
 
